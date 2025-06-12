@@ -7,8 +7,6 @@ local Players = game:GetService("Players")
 local CoreGui = game:GetService("CoreGui")
 local Player = Players.LocalPlayer
 
-local LibraryRawUrl = "https://raw.githubusercontent.com/hacked-prototype/RedzLibV4/main"
-
 local redzLib = {
   info = {
     Version = "v1.2.2",
